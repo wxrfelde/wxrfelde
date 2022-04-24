@@ -8,10 +8,10 @@
 
 <br>
 
-- 👋 Hi, I’m Lukas Leisten
-- 💼 I'm the youngest entrepreneur in Germany.
-- 🔭 I’m currently working on this projects **Distrikt, Tynopia, VanityLife, Die Insel**
-- 📫 How to reach me **support@tynopia.net**
+- 👋 Hi, I’m Philipp
+- 💼 I am 16 years old and still in school.
+- 🔭 I’m currently working on this projects **Bedwarskollektiv.de, Nachhilfedc.de, Wxrfel.de**
+- 📫 How to reach me **contact@wxrfel.de**
 
 <br/>
 <br>
