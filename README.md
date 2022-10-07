@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Philipp
 - 💼 I am 16 years old and still in school.
-- 🔭 I’m currently working on this projects **Bedwarskollektiv.de, Nachhilfedc.de, Wxrfel.de**
+- 🔭 At the moment I am not actively working on any projects
 - 📫 How to reach me **contact@wxrfel.de**
 
 <br/>
